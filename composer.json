@@ -1,0 +1,22 @@
+{
+    "name"        : "websublime/enum",
+    "type"        : "library",
+    "description" : "A enumerator componente like Java.",
+    "keywords"    : ["enum, component, library"],
+    "homepage"    : "https://github.com/websublime/enum",
+    "license"     : "MIT",
+    "authors"     : [
+        {
+            "name"  : "Miguel Ramos",
+            "email" : "miguel.marques.ramos@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.14"
+    },
+    "autoload": {
+        "psr-0": {
+            "Websublime\\Enum": "src/"
+        }
+    }
+}
