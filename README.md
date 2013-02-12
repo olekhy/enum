@@ -1,5 +1,6 @@
 Websublime\Enum
 ====
+[![Build Status](https://travis-ci.org/websublime/enum.png?branch=master)](https://travis-ci.org/websublime/enum)
 
 ##Php Java simulator Enumerator. 
 
