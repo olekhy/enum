@@ -2,7 +2,7 @@
     "name"        : "websublime/enum",
     "type"        : "library",
     "description" : "A enumerator component like Java.",
-    "keywords"    : ["enum, component, library"],
+    "keywords"    : ["enum", "component", "library"],
     "homepage"    : "https://github.com/websublime/enum",
     "license"     : "MIT",
     "authors"     : [
